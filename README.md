@@ -34,4 +34,4 @@ Insights and Business Value:
 The dashboard helped highlight customer experience trends, regional differences, and aircraft level performance patterns. It was designed to support data driven decision making by presenting customer feedback in a easy to understand and interactive format.
 
 Credits:  
-The dataset is sourced fromv [Public repository](https://github.com/mochen862/tableau-end-to-end-portfolio-project) of [Mo Chen](https://github.com/mochen862). 
+The dataset is sourced from [Public repository](https://github.com/mochen862/tableau-end-to-end-portfolio-project) of [Mo Chen](https://github.com/mochen862). 
